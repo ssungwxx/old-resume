@@ -1,9 +1,11 @@
 # Education Template
-- layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+- layout: top-middle
+  name: 삼성 청년 소프트웨어 아카데미(SSAFY)
+  dates: 2018.12 ~ 2019.12
+  qualification: Samsung
+  # quote: >
+  #   Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    1학기 Java, Vue.js, DB, 알고리즘 과정을 통해 교육을 받고 <br>
+    2학기 프로젝트 집중 과정에서 자율적으로 프로젝트를 수행하였습니다.
+    

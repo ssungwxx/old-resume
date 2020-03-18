@@ -1,36 +1,36 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: ykk2006/ykk2006.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: 김성우
+title: Junior Developer
+email: sungwoo.dev@gmail.com
+# phone: Your phone number (optional)
+# website: Your website (eg. https://google.com)(optional)
 
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+# twitter_username: jekyllrb
+github_username:  ykk2006
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: sungwoo-kim-3ab2101a4
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -43,15 +43,13 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/felix.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  항상 새로운 것에 도전하고 싶은 신입 개발자 김성우입니다.
+  학부 졸업 후 삼성 청년 소프트웨어 아카데미(SSAFY)를 거쳐 카카오 인턴 경험을 쌓고 새롭게 출발할 곳을 찾고 있습니다.
+  Java를 주 언어로 사용하고, Python, Javascript, Golang을 사용하여 개발을 해보았습니다.
+  반복작업을 자동화하는 것을 좋아하여 Jenkins, Travis를 사용해보았으며, 클라우드에 관심이 있어 Hadoop과 AWS를 사용해 보았습니다.
+  인턴경험을 통해 Docker, Kubernetes환경에서 개발하는 법과 애자일 방법론으로 일하는 방식에 대해 배웠습니다.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -65,16 +63,20 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  프로젝트에 대한 참고 자료들입니다.
+  - [SafeFood]
+  - [포트폴리오 제작 사이트]
+  - [영화 추천 사이트]
+  - [QnA for SSAFY]
+  - [OpenTelmetry Demo Project]
+  - [Go synthetic trace generator]
 
 # Footer
 footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
