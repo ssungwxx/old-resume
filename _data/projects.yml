@@ -1,14 +1,87 @@
 # Project template
 - layout: top-middle
+  name: 카카오톡 톡딜 개편
+  # link: hhtp:// ~~
+  # github: https://github.com/the-copy-cat/copy-talk-deal
+  quote: >
+    2020.03.02 ~ 진행중
+  description: | # this will include new lines to allow paragraphs
+    - 카카오톡 쇼핑하기의 톡딜을 카피하고 개선하는 프로젝트
+    - 자동화와 SpringBoot 백엔드 개발을 담당
+    - 서버는 SpringBoot 2.X를 사용하고 프론트엔드는 Flutter로 개발할 예정
+    - AWS EC2, S3, RDS, Codedeploy를 사용하였으며, Travis를 이용한 CI/CD환경을 구축
+    
+
+- layout: top-middle
   name: OpenTelemetry Demo Application
   # link: hhtp:// ~~
   # github: https://github.com/the-copy-cat/copy-talk-deal
   quote: >
-    카카오 인턴 과제<br>
-    영화 추천 및 평점 기록 사이트 시나리오를 바탕으로 이루어진 마이크로 서비스에서 OpenTelmetry를 사용하여 Tracing을 적용하고 가이드를 작성하는 프로젝트
+    2020.01.06 ~ 2020.02.21
   description: | # this will include new lines to allow paragraphs
-    영화 추천 및 평점 사이트 시나리오를 바탕으로 마이크로 서비스를 Golang을 이용하여 구현하고 마이크로 서비스에서 Tracing을 적용하였습니다.<br>
-    실제 파트에서 운영할 때의 구성방안 제안, 개발자에게 제공하는 제안안 작성, 사내 개발 환경을 바탕으로 한 성능 테스트를 수행하였습니다. <br>
-    사용한 기술로는 Golang, OpenTelmetry, Jaeger, Elasticsearch 를 사용하였습니다.<br>
-    과제를 위한 사전 조사로 OpenTracing, OpenCensus, Zipkin, Istio, Envoy, Linkerd 등 다양한 오픈소스를 분석하였습니다. <br>
-    오픈소스 분석 과정 중 OpenTelmetry-specification에 기여하였습니다.
+    - 카카오 인턴 과제
+    - 영화 추천 및 평점 기록 사이트 시나리오를 바탕으로 이루어진 마이크로 서비스에서 OpenTelmetry를 사용하여 Tracing을 적용하고 가이드를 작성하는 프로젝트
+    - 영화 추천 및 평점 사이트 시나리오를 바탕으로 마이크로 서비스를 Golang을 이용하여 구현하고 마이크로 서비스에서 Tracing을 적용
+    - 실제 파트에서 운영할 때의 구성방안 제안, 개발자에게 제공하는 제안안 작성, 사내 개발 환경을 바탕으로 한 성능 테스트를 수행
+    - 사용한 기술로는 Golang, OpenTelmetry, Jaeger, Elasticsearch 를 사용
+    - 과제를 위한 사전 조사로 OpenTracing, OpenCensus, Zipkin, Istio, Envoy, Linkerd 등 다양한 오픈소스를 분석
+    - 오픈소스 분석 과정 중 OpenTelmetry-specification에 기여
+
+- layout: top-middle
+  name: Go synthetic trace generator
+  # link: hhtp:// ~~
+  # github: https://github.com/the-copy-cat/copy-talk-deal
+  quote: >
+    2020.02.13 ~ 2020.17
+  description: | # this will include new lines to allow paragraphs
+    - Jaeger Collctor 부하 테스트용 프로젝트
+    - 인턴 과제 도중 Jaeger Collector가 어느정도 성능을 낼 수 있는지 테스트하기 위해 개발한 툴
+    - Golang으로 작성되었으며 Jaeger-client-go와 OpenTracing의 Trace 데이터 규격을 기준으로 작성
+    - Goroutin을 통해 동시성 작업을 수행
+
+- layout: top-middle
+  name: QnA for SSAFY
+  # link: hhtp:// ~~
+  # github: https://github.com/the-copy-cat/copy-talk-deal
+  quote: >
+    2019
+  description: | # this will include new lines to allow paragraphs
+    - 전국에 있는 SSAFY 수강생들을 대상으로한 강의와 교육에서 양질의 QnA시간을 가질 수 있도록 하는 반응형 웹 프로젝트
+    - 프로젝트에서 Firebase를 이용한 서버 개발과 Vue.js 컴포넌트 코드 리뷰를 담당
+    - Firebase, Vue.js로 개발을 진행하였고 Firebase의 Cloud firestore를 DB로 사용
+    - 소셜 로그인, Guest 로그인을 통해 빠르게 접근이 가능하고 원하는 경우 데이터를 보관하여 열람할 수 있는 시스템
+
+- layout: top-middle
+  name: 영화 추천 사이트
+  # link: hhtp:// ~~
+  # github: https://github.com/the-copy-cat/copy-talk-deal
+  quote: >
+    2019
+  description: | # this will include new lines to allow paragraphs
+    - Movie Lens 데이터를 바탕으로 다양한 클러스터링을 이용하여 영화를 추천해주는 사이트
+    - 프로젝트에서 Django를 이용한 REST API 구현과 CI/CD 환경 구축을 담당
+    - Jenkins를 이용하여 테스팅, 배포 및 알람 기능을 구축
+    - 테스팅은 프론트엔드는 Jasmine, 백엔드는 Pytest를 사용하였으며 Plugin을 이용하여 Code coverage를 시각화하여 팀에게 제공
+
+- layout: top-middle
+  name: 포트폴리오 사이트
+  # link: hhtp:// ~~
+  # github: https://github.com/the-copy-cat/copy-talk-deal
+  quote: >
+    2019
+  description: | # this will include new lines to allow paragraphs
+    - Gitlab 이력과 포스팅 데이터를 한 군데 모아 보기 쉽도록 제공해주는 사이트
+    - 팀에서 Node.js를 사용한 백엔드를 구축을 담당
+    - 프론트엔드와 백엔드가 분리된 서버환경에서 안정적인 로그인 환경을 위하여 JWT를 사용하는 로그인 방식을 개발
+    - Jenkins를 사용하여 빌드와 배포를 자동화
+
+- layout: top-middle
+  name: 라즈베리파이를 이용한 Hadoop 구축
+  # link: hhtp:// ~~
+  # github: https://github.com/the-copy-cat/copy-talk-deal
+  quote: >
+    2018
+  description: | # this will include new lines to allow paragraphs
+    - "라즈베리파이같은 소형 컴퓨터로도 Hadoop구축이 가능할까? 가능하다면 어느정도의 성능을 낼 수 있을까?" 라는 의문점에서 시작한 프로젝트
+    - 팀에서는 라즈베리파이 23대와 Ubuntu PC 1대를 이용하여 Hadoop을 구축을 담당
+    - WordCount Mapreduce작업을 통해 성능을 측정하고 설정별로 비교
