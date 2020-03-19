@@ -4,7 +4,7 @@ repository: ykk2006/ykk2006.github.io
 
 # Personal info
 name: 김성우
-title: Junior Developer
+title: Junior Software Engineer
 email: sungwoo.dev@gmail.com
 # phone: Your phone number (optional)
 # website: Your website (eg. https://google.com)(optional)
@@ -43,11 +43,11 @@ linkedin_username: sungwoo-kim-3ab2101a4
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/felix.png
 about_content: | # this will include new lines to allow paragraphs
-  항상 새로운 것에 도전하고 싶은 신입 개발자 김성우입니다.<br>
+  새로운 것에 도전하는 것을 좋아하는 신입 개발자 김성우입니다.<br>
   학부 졸업 후 삼성 청년 소프트웨어 아카데미(SSAFY)를 거쳐 카카오 인턴 경험을 쌓고 새롭게 출발할 곳을 찾고 있습니다.<br>
   Java를 주 언어로 사용하고, Python, Javascript, Golang을 사용하여 개발을 해보았습니다.<br>
-  반복작업을 자동화하는 것을 좋아하여 Jenkins, Travis를 사용해보았으며, 클라우드에 관심이 있어 Hadoop과 AWS를 사용해 보았습니다.<br>
-  인턴경험을 통해 Docker, Kubernetes환경에서 개발하는 법과 애자일 방법론으로 일하는 방식에 대해 배웠습니다.<br>
+  반복작업을 자동화하는 것을 좋아하여 Jenkins, Travis를 적극 활용하며, 클라우드에 많은 관심이 있어서 Hadoop을 직접 구축하여 보고 Docker, Kubernetes 환경에서 개발한 경험이 있습니다.<br>
+  문제에 관해 논의하는 것을 좋아하고 어떻게 하면 더 발전 시킬 수 있을까를 끝없이 고민하는 자세를 가지고 있습니다.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

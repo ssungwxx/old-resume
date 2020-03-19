@@ -1,0 +1,21 @@
+# Skill template
+- layout: left
+  name: Backend
+  description: | # this will include new lines to allow paragraphs
+    * Java, Python3, Javascript, Golang
+    * Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA, Express, Django, Express
+    * OpenTelemetry, Jaeger
+    * IntelliJ, Visual Studio Code 
+- layout: left
+  name: DevOps
+  description: | # this will include new lines to allow paragraphs
+    * MySQL, MariaDB
+    * Jenkins, TravisCI, AWS Code Deploy
+    * S3, EC2
+    * Nginx, Tomcat
+    * Ngrinder
+- layout: left
+  name: Frontend
+  description: | # this will include new lines to allow paragraphs
+    * HTML, CSS
+    * Vue.js

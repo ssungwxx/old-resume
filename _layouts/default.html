@@ -15,6 +15,10 @@
       {%- endif -%}
 
       {%- include about.html -%}
+
+      {%- if site.data.skill.size > 0 -%}
+        {%- include skill.html -%}
+      {%- endif -%}
       
       {%- if site.data.experience.size > 0 -%}
         {%- include experience.html -%}
@@ -36,7 +40,6 @@
   </main>
 
   {%- include footer.html -%}
-  <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
 </body>
 
 </html>
