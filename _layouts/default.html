@@ -32,6 +32,10 @@
       {%- include projects.html -%}
       {%- endif -%}
 
+      {%- if site.data.tools.size > 0 -%}
+      {%- include tools.html -%}
+      {%- endif -%}
+
       {%- if site.more_content -%}
         {%- include more.html -%}
       {%- endif -%}
