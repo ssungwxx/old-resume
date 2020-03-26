@@ -22,15 +22,15 @@
     - 카카오 인턴 과제
     - 영화 추천 및 평점 기록 사이트 시나리오를 바탕으로 이루어진 마이크로 서비스에서 OpenTelmetry를 사용하여 Tracing을 적용하고 가이드를 작성하는 프로젝트
     - 영화 추천 및 평점 사이트 시나리오를 바탕으로 마이크로 서비스를 Golang을 이용하여 구현하고 마이크로 서비스에 Tracing을 적용
-    - 실제 파트에서 운영할 때의 구성방안 제안, 개발자에게 제공하는 제안안 작성, 사내 개발 환경을 바탕으로 성능 테스트를 수행
-    - 사용한 기술로는 Golang, OpenTelmetry, Jaeger, Elasticsearch 사용
+    - 실제 운영시 구성방안 제안, 상황에 따른 제안안 작성, 사내 개발 환경을 바탕으로 성능 테스트를 수행
+    - Golang, OpenTelmetry, Jaeger, Elasticsearch 사용
     - 과제를 위한 사전 조사로 OpenTracing, OpenCensus, Zipkin, Istio, Envoy, Linkerd 등 다양한 오픈소스를 분석
-    - 오픈소스 분석 과정 중 OpenTelmetry-specification에 기여
+    - 오픈소스 OpenTelmetry-specification에 기여
 
 - layout: top-middle
   name: QnA for SSAFY
   # link: hhtp:// ~~
-  # github: https://github.com/the-copy-cat/copy-talk-deal
+  # github:
   quote: >
     2019.10.14 ~ 2019.11.08
   description: | # this will include new lines to allow paragraphs
@@ -42,7 +42,7 @@
 - layout: top-middle
   name: 영화 추천 사이트
   # link: hhtp:// ~~
-  # github: https://github.com/the-copy-cat/copy-talk-deal
+  # github: 
   quote: >
     2019.08.19 ~ 2019.10.11
   description: | # this will include new lines to allow paragraphs
@@ -54,7 +54,7 @@
 - layout: top-middle
   name: 포트폴리오 사이트
   # link: hhtp:// ~~
-  # github: https://github.com/the-copy-cat/copy-talk-deal
+  # github: 
   quote: >
     2019.07.01 ~ 2019.08.16
   description: | # this will include new lines to allow paragraphs
@@ -66,7 +66,7 @@
 - layout: top-middle
   name: 라즈베리파이를 이용한 Hadoop 구축
   # link: hhtp:// ~~
-  # github: https://github.com/the-copy-cat/copy-talk-deal
+  # github: 
   quote: >
     2018
   description: | # this will include new lines to allow paragraphs
