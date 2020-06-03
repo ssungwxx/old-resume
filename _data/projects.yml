@@ -1,6 +1,6 @@
 # Project template
 - layout: top-middle
-  name: 카카오톡 톡딜 카피 및 개선
+  name: 크라우드 펀딩형 쇼핑몰
   # link: hhtp:// ~~
   # github: https://github.com/the-copy-cat/copy-talk-deal
   quote: >
@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     - 크라우드펀딩형 모바일 쇼핑 플랫폼
     - 자동화와 SpringBoot 백엔드 개발을 담당
-    - 서버는 SpringBoot 2.X를 사용하고 프론트엔드는 Android(Kotlin)로 개발할 예정
+    - 서버는 SpringBoot 2.X를 사용하고 클라이언트는 Android(Kotlin)로 개발할 예정
     - AWS EC2, S3, RDS, Codedeploy를 사용하였으며, Travis를 이용한 CI/CD환경을 구축
 
 - layout: top-middle
@@ -49,6 +49,28 @@
     - 프로젝트에서 Django를 이용한 REST API 구현과 CI/CD 환경 구축을 담당
     - Jenkins를 이용하여 테스팅, 배포 및 알람 기능을 구축
     - Jenkins Plugin을 이용하여 테스팅 상황과 Code coverage를 시각화하여 제공
+
+- layout: top-middle
+  name: 포트폴리오 사이트
+  # link: hhtp:// ~~
+  # github: 
+  quote: >
+    2019.07.01 ~ 2019.08.16
+  description: | # this will include new lines to allow paragraphs
+    - Gitlab 이력과 포스팅 데이터를 한 군데 모아 보기 쉽도록 제공해주는 사이트
+    - 팀에서 Node.js 백엔드 구축 및 Vue.js Component, Vuex 개발을 담당
+    - 프론트엔드와 백엔드가 분리된 서버환경에서 안정적인 로그인 환경을 위하여 JWT를 사용한 로그인 개발
+    - Jenkins, AWS EC2를 사용하여 빌드와 배포를 자동화
+
+  - layout: top-middle
+  name: Safe food
+  quote: >
+    2019.04 ~ 2019.06
+  description: | # this will include new lines to allow paragraphs
+    - 안전한 먹거리 섭취를 위한 영양 정보 습득 및 기록 사이트
+    - Spring MVC + JSP 에서 Spring Boot + Vue.js 로 변경해 나아가는 학습 프로젝트
+    - Web socket을 사용하여 채팅 기능 구현
+    - 페어 프로그래밍을 사용한 협업 프로젝트
 
 - layout: top-middle
   name: 포트폴리오 사이트
