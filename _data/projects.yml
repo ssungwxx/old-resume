@@ -73,16 +73,6 @@
     - 페어 프로그래밍을 사용한 협업 프로젝트
 
 - layout: top-middle
-  name: Safe Foood
-  quote: >
-    2019.03 ~ 2019.05
-  description: | # this will include new lines to allow paragraphs
-    - Spring MVC + JSP 환경으로 개발하고 Spring Boot + Vue.js로 변화시켜나아가는 학습형 프로젝트
-    - Spring MVC를 통해 Monolithic 서비스를 개발한다음 Spring Boot로 필요한 추가기능을 REST API 개발을 통해 분리된 서비스로 개발
-    - Spring관련 개발과 Vue.js 개발을 담당
-    - 페어 프로그래밍을 사용하여 일부 기능 구현
-
-- layout: top-middle
   name: 라즈베리파이를 이용한 Hadoop 구축
   # link: hhtp:// ~~
   # github: 
