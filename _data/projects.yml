@@ -62,7 +62,7 @@
     - 프론트엔드와 백엔드가 분리된 서버환경에서 안정적인 로그인 환경을 위하여 JWT를 사용한 로그인 개발
     - Jenkins, AWS EC2를 사용하여 빌드와 배포를 자동화
 
-  - layout: top-middle
+- layout: top-middle
   name: Safe food
   quote: >
     2019.04 ~ 2019.06
@@ -74,8 +74,6 @@
 
 - layout: top-middle
   name: Safe Foood
-  # link: hhtp:// ~~
-  # github: 
   quote: >
     2019.03 ~ 2019.05
   description: | # this will include new lines to allow paragraphs
