@@ -73,16 +73,16 @@
     - 페어 프로그래밍을 사용한 협업 프로젝트
 
 - layout: top-middle
-  name: 포트폴리오 사이트
+  name: Safe Foood
   # link: hhtp:// ~~
   # github: 
   quote: >
-    2019.07.01 ~ 2019.08.16
+    2019.03 ~ 2019.05
   description: | # this will include new lines to allow paragraphs
-    - Gitlab 이력과 포스팅 데이터를 한 군데 모아 보기 쉽도록 제공해주는 사이트
-    - 팀에서 Node.js 백엔드 구축 및 Vue.js Component, Vuex 개발을 담당
-    - 프론트엔드와 백엔드가 분리된 서버환경에서 안정적인 로그인 환경을 위하여 JWT를 사용한 로그인 개발
-    - Jenkins, AWS EC2를 사용하여 빌드와 배포를 자동화
+    - Spring MVC + JSP 환경으로 개발하고 Spring Boot + Vue.js로 변화시켜나아가는 학습형 프로젝트
+    - Spring MVC를 통해 Monolithic 서비스를 개발한다음 Spring Boot로 필요한 추가기능을 REST API 개발을 통해 분리된 서비스로 개발
+    - Spring관련 개발과 Vue.js 개발을 담당
+    - 페어 프로그래밍을 사용하여 일부 기능 구현
 
 - layout: top-middle
   name: 라즈베리파이를 이용한 Hadoop 구축
