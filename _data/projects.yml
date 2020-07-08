@@ -3,13 +3,13 @@
   name: 크라우드 펀딩형 쇼핑몰
   # link: hhtp:// ~~
   # github: https://github.com/the-copy-cat/copy-talk-deal
-  quote: >
-    2020.03.02 ~ 진행중
-  description: | # this will include new lines to allow paragraphs
-    - 크라우드펀딩형 모바일 쇼핑 플랫폼
-    - 자동화와 SpringBoot 백엔드 개발을 담당
-    - 서버는 SpringBoot 2.X를 사용하고 클라이언트는 Android(Kotlin)로 개발할 예정
-    - AWS EC2, S3, RDS, Codedeploy를 사용하였으며, Travis를 이용한 CI/CD환경을 구축
+  #quote: >
+  #  2020.03.02 ~ 진행중
+  #description: | # this will include new lines to allow paragraphs
+  #  - 크라우드펀딩형 모바일 쇼핑 플랫폼
+  #  - 자동화와 SpringBoot 백엔드 개발을 담당
+  #  - 서버는 SpringBoot 2.X를 사용하고 클라이언트는 Android(Kotlin)로 개발할 예정
+  #  - AWS EC2, S3, RDS, Codedeploy를 사용하였으며, Travis를 이용한 CI/CD환경을 구축
 
 - layout: top-middle
   name: OpenTelemetry Demo Application
