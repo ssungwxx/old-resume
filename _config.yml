@@ -60,14 +60,14 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  프로젝트에 대한 참고 자료들입니다.
-  - [SafeFood]
-  - [포트폴리오 제작 사이트]
-  - [영화 추천 사이트]
-  - [QnA for SSAFY]
-  - [OpenTelmetry Demo Project]
-  - [Go synthetic trace generator]
+#more_content: | # this will include new lines to allow paragraphs
+#  프로젝트에 대한 참고 자료들입니다.
+#  - [SafeFood]
+#  - [포트폴리오 제작 사이트]
+#  - [영화 추천 사이트]
+#  - [QnA for SSAFY]
+#  - [OpenTelmetry Demo Project]
+#  - [Go synthetic trace generator]
 
 # Footer
 footer_show_references: true
