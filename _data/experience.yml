@@ -9,4 +9,4 @@
     OpenTelmetry를 사용한 Tracing 프로젝트를 진행하였습니다.<br>
     Kubernetes 환경에서 개발을 진행하고 자동 빌드, 테스트, 배포를 진행하였습니다.<br>
     프로젝트를 위해 다양한 오픈소스를 찾고 분석하였으며, 상황에 맞는 오픈소스를 찾는 능력을 길렀습니다. OpenTelemetry-specification에 약간의 기여를 하였습니다. <br>
-    진행 도중 Collector에 부하를 주기 위한 목적으로 Go-synthetic-trace-generator를 같이 개발하였습니다.
+    진행 도중 Collector에 부하를 주기 위한 목적으로 Go-synthetic-trace-generator를 같이 개발하여 사내 인프라에 알맞은 성능 장표를 제작하였습니다.
