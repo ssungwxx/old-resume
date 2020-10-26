@@ -9,4 +9,4 @@
     - Jaeger Collctor 부하 테스트용
     - 인턴 과제 도중 Jaeger Collector가 어느정도 성능을 낼 수 있는지 테스트하기 위해 개발한 Tool
     - Golang으로 작성되었으며 Jaeger-client-go와 OpenTracing의 Trace 데이터 규격을 기준으로 작성
-    - Goroutine을 통해 동시성 작업을 수행
+    - Goroutine을 통한 동시성 작업을 사용하여 일정시간마다 설정한 데이터를 생성

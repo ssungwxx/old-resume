@@ -2,7 +2,7 @@
 - layout: left
   name: Backend
   description: | # this will include new lines to allow paragraphs
-    * Java, Python3, Javascript, Golang
+    * Java, Golang, Javascript, Python
     * Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Express, Django, Express
     * OpenTelemetry, Jaeger
     * IntelliJ, Goland, Visual Studio Code 
