@@ -1,3 +1,8 @@
-# Kim Sungwoo Resume
+# Kim Sungwoo Old Resume
+학부시절, SSAFY(삼성 청년 소프트웨어 아카데미), 카카오 클라우드 텔레메트리파트 경험 위주로 작성된 이력서입니다.
 
-이력서 주소 : http://ssungwxx.github.io/
+현재는 기술 및 경험에 관한 블로그를 작성하기 위해 분리되었습니다.
+
+```_data``` 디렉터리에서 작성된 항목들을 확인하실 수 있습니다.
+
+현재 더 자세한 정보를 알고 싶다면 현재 [깃 블로그](https://ssungwxx.github.io)를 방문해주세요.
